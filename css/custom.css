@@ -73,3 +73,6 @@ p.screen{
 .green{
     background-color: green;
 }
+.col-lg-52{
+    width: 152%;
+}
